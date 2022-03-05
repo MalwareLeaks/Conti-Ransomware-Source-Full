@@ -9,4 +9,7 @@ Conti Ransomware malware leak WITH LOCKER
 * Internal Software
 
 # Difference from other leakers?      
-* Contains full locker source, not available (as of 5/03/22) on other sites.
+* Contains full locker source, not available (as of 5/03/22) on other sites.        
+
+
+# Leaks do not come from us.
